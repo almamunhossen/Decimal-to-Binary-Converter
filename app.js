@@ -1,5 +1,5 @@
 let submitButton = document.querySelector("#submit-button");
-let result = document.querySelector("#results");
+let result = document.querySelector("#result-h1");
 
 function binaryContent(x) {
   x.preventDefault();

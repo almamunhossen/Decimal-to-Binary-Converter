@@ -44,14 +44,14 @@ form input {
   outline: none;
 }
 
-.result {
+.result-h1 {
   font-size: 20px;
   width: 300px;
   border-bottom: 1px solid gray;
   text-align: center;
   padding: 10px;
 }
-.result h1 {
+.result-div h1 {
   /* visibility: hidden; */
   display: none;
 }
